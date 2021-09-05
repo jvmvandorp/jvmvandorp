@@ -15,9 +15,8 @@
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
-
-### Contact:
-
+###
+.
 ###### Discord
 <img align="left" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
 - You can contact me on my [Discord server](https://jaapvd.nl/discord) or you can contact me in [Discord DM's](https://discord.com/users/374928312692113411/)
