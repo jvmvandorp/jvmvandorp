@@ -15,15 +15,15 @@
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 
-###
-.
+###                                                                                                                                                                                                    
+
 ###### Discord
 <img align="left" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
 - You can contact me on my [Discord server](https://jaapvd.nl/discord) or you can contact me in [Discord DM's](https://discord.com/users/374928312692113411/)
 
 ###### Telegram
 <img align="left" alt="Telegram" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
-- You can contact me on [Telegram](https://t.me/prifixy)
+- You can contact me on [Telegram](https://t.me/prifixy)                                                                                                                        
 
 ###### Site
 <img align="left" alt="Site" width="50px" src="https://avatars.githubusercontent.com/u/71439375" />
