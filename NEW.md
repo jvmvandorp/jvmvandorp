@@ -16,9 +16,13 @@
 
 ### Contact:
 
-
+# Discord
 <img align="left" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
 - You can contact me on my [Discord server](https://jaapvd.nl/discord)
 - You can contact me in [Discord DM's](https://discord.com/users/374928312692113411/)
 
+# Telegram
 <img align="left" alt="Telegram" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />
+- You can contact me on [Telegram](https://t.me/prifixy)
+
+# End
