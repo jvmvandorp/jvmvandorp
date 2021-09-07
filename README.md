@@ -23,6 +23,6 @@
 </p>
 
 <div align=center>
-
-![Metrics](https://metrics.lecoq.io/jvmvandorp?template=classic&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=smaltalk%3AC%23&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAmsterdam)
+<img src"https://metrics.lecoq.io/jvmvandorp?template=classic&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=smaltalk%3AC%23&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAmsterdam" align="center">
+    
 </div>
