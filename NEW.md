@@ -27,4 +27,4 @@
 
 ###### Site
 <img align="left" alt="Site" width="50px" src="https://avatars.githubusercontent.com/u/71439375" />
-- My website is at [jaapvd.nl](https://jaapvd.nl), and you can see the source code [here](https://github.com/jvmvandorp/jvmvandorp.github.io).
+- My website is at https://jaapvd.nl.
