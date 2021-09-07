@@ -1,9 +1,9 @@
 <p align="center">
-    <a href=>"https://jaapvd.nl">Welcome to my GitHub! I am Prifixy, I usually code in C# (with .NET Framework), HTML, CSS, Python and I make a lot of small, low effort scripts using Batch.</a>
+    <a href="https://jaapvd.nl">Welcome to my GitHub! I am Prifixy, I usually code in C# (with .NET Framework), HTML, CSS, Python and I make a lot of small, low effort scripts using Batch.</a>
     
     
 <p align="center">
-    <a href=You can contact me using Discord (Prifixy#0001) or clicking here.</a>
+    <a href="https://jaapvd.nl/discord">You can contact me using Discord (Prifixy#0001) or clicking here.</a>
 <br>
 <br>
 <br>
