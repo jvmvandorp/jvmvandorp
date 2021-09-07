@@ -4,6 +4,11 @@
 <p align="center">
     <a href="https://jaapvd.nl/discord">You can contact me using Discord (Prifixy#0001) or clicking here.</a>
     
+    <img align="center" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
+
+- You can contact me on my [Discord server](https://jaapvd.nl/discord)
+- You can contact me in Discord dm's
+    
     
     
 <img src="image.png" align="center">
@@ -20,11 +25,3 @@
 
 ![Metrics](https://metrics.lecoq.io/jvmvandorp?template=classic&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=smaltalk%3AC%23&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FAmsterdam)
 </div>
-
-
-### Contact:
-
-- You can contact me on my [Discord server](https://jaapvd.nl/discord)
-- You can contact me in Discord dm's
-
-<img align="left" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
