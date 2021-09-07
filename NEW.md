@@ -1,3 +1,5 @@
+<img src="image.png" align="center">
+
 <p align="center">
     <a href="https://jaapvd.nl">Welcome to my GitHub! I am Prifixy, I usually code in C# (with .NET Framework), HTML, CSS, Python and I make a lot of small, low effort scripts using Batch.</a>
 
@@ -12,10 +14,6 @@
 <br>
 <br>
 <br>    
-    
-    
-<img src="image.png" align="center">
-
 <p align="center">
     <a href="https://jaapvd.nl">My own website.</a> 
  <br>
