@@ -1,14 +1,14 @@
 <p align="center">
     <a href="https://jaapvd.nl/">Welcome to my GitHub! I am Prifixy, I usually code in C# (with .NET Framework), HTML, CSS, Python and I make a lot of small, low effort scripts using Batch.</a>
     
-<br>
-<br>
-<br>
     
 <p align="center">
     <a href="https://jaapvd.nl/discord">You can contact me using Discord (Prifixy#0001) or clicking here.</a>
+<br>
+<br>
+<br>
     
-<img align="left" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
+<img align="center" alt="Discord" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />
 
 - You can contact me on my [Discord server](https://jaapvd.nl/discord)
 - You can contact me in Discord dm's
