@@ -1,13 +1,11 @@
 <p align="center">
     <a href="https://jaapvd.nl/">Welcome to my GitHub! I am Prifixy, I usually code in C# (with .NET Framework), HTML, CSS, Python and I make a lot of small, low effort scripts using Batch.</a>
-
-### Languages:
-
-[<img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[<img align="left" alt="HTML" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML](https://en.wikipedia.org/wiki/HTML)
-[<img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css](https://en.wikipedia.org/wiki/CSS)
-[<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JavaScript](https://en.wikipedia.org/wiki/JavaScript)
-
+    
+<p align="center">
+    <a href="https://jaapvd.nl/discord">You can contact me using Discord (Prifixy#0001) or clicking here.</a>
+    
+    
+    
 <img src="image.png" align="center">
 
 <p align="center">
